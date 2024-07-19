@@ -1,7 +1,7 @@
 # Ph.D. Thesis Template 
 ## Nangyang Technological University 
 
-This version has been verified by NTU
+This version has been verified by NTU's
 
 Author: [Chen Wang](https://wang-chen.github.io)
 
